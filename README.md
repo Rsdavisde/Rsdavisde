@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rsdavisde
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning R & how to use GitHub
+- 👀 Currently studying analytics in the masters program at Georgia Tech
+- 🌱 Learning R & how to use GitHub
 - ⚡ Fun fact: I'm a former Navy Nuke and have had 4 holes-in-one 
 
 <!---
